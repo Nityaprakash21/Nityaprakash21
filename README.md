@@ -5,7 +5,7 @@
 - 📫 How to reach me ... : pnityaprakash@gmail.com
 
 
-<!---- Nityaprakash21/Nityaprakash21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nityaprakash21/Nityaprakash21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 
@@ -76,4 +76,3 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
---->
